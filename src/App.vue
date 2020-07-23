@@ -36,7 +36,9 @@ export default {
     };
   },
   methods: {
-    addtodo(): {},
+    addtodo() {
+      console.log(AddTodo.);
+    },
   },
 };
 </script>
